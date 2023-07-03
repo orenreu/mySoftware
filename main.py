@@ -10,5 +10,5 @@ def double_click():
     print('Double Click')
 
 
-def triple_click():
+def tripled_click():
     print('Triple Click')
