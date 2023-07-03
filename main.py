@@ -8,3 +8,7 @@ def click():
 
 def double_click():
     print('Double Click')
+
+
+def triple_click():
+    print('Triple Click')
